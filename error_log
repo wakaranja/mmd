@@ -1,0 +1,4 @@
+[29-Jan-2017 06:47:34 America/Chicago] PHP Warning:  require_once(/home/mbogomdc/public_html/..thika/bootstrap/app.php): failed to open stream: No such file or directory in /home/mbogomdc/public_html/index.php on line 36
+[29-Jan-2017 06:47:34 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/mbogomdc/public_html/..thika/bootstrap/app.php' (include_path='.:/opt/php70/lib/php') in /home/mbogomdc/public_html/index.php on line 36
+[29-Jan-2017 06:47:35 America/Chicago] PHP Warning:  require_once(/home/mbogomdc/public_html/..thika/bootstrap/app.php): failed to open stream: No such file or directory in /home/mbogomdc/public_html/index.php on line 36
+[29-Jan-2017 06:47:35 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/mbogomdc/public_html/..thika/bootstrap/app.php' (include_path='.:/opt/php70/lib/php') in /home/mbogomdc/public_html/index.php on line 36
